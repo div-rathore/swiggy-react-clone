@@ -1,2 +1,21 @@
 # swiggy-react-clone
 Clone of Swiggy food ordering app using react js
+- App Structure
+    - Header
+        - Logo
+        - Nav Items
+    - Body
+        - Search
+        - Restaurant Container
+            - Restaurant Card
+                - Dish Name
+                - Image 
+                - Restaurant Name
+                - Rating
+                - Cuisines
+                - Time to deliver
+    - Footer
+        -Cop
+        - Links
+        - Address
+        - Contact
